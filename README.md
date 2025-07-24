@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "macdevopss/docker-instance/aws"
     key_name = "macdevopss"
 }
+```
